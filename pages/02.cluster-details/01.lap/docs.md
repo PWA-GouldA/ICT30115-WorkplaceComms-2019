@@ -41,8 +41,7 @@ Student learning resources, text book, equipment and other items.
 | Student to supply: | Writing and note taking items (Pens, Notebook/Paper, Highlighter) | Required |
 |                    | External Storage (Recommend 1TB External HDD)                     | Required |
 |                    |                                                                   |          |
-| College to supply: | Computer (Windows 7 or later)                                     | |
-|                    | External Storage (Recommend 1TB External HDD)                     | Required |
+| College to supply: | Computer (Windows 7 or later)                                     | Required |
 |                    | Python Compiler/Intepreter					                     | Required |
 |                    | Python IDE (eg PyCharm EDU)					                     | Required |
 |                    | Internet Access								                     | Required |
