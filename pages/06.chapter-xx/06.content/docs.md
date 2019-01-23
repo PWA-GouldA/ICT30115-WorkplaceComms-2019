@@ -1,5 +1,5 @@
 ---
-title: 'Homework & Revision'
+title: 'Chapter Content'
 taxonomy:
     category:
         - docs
