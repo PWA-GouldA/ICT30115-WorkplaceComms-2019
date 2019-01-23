@@ -55,7 +55,9 @@ The student is expected to provide some resources for themselves.
 |-------------------------------------------------------------------|----------|
 | Writing and note taking items (Pens, Notebook/Paper, Highlighter) | Required |
 | External Storage (Recommend 1TB External HDD)                     | Required |
-| Laptop                                                            | Optional<br>College takes no responsibility for loss or damage of personal items |
+| Laptop                                                            | Optional |
+
+!<br>College takes no responsibility for loss or damage of personal items
 
 ### Lecturer Details
 | **Lecturer Name:** | **Phone:  ** | **Email:**                     | **Contact times** | **Campus / Room**            |
