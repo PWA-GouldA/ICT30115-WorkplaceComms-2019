@@ -16,3 +16,5 @@ creator: adrian
 **for the ICT30115 Certificate III in Information, Ddigital Media and Teachnology**
 
 SPLASH SCREEN BANNER
+
+Please check the [Introduction](./introduction) and [Orientation](./orientation) pages before continuing.
