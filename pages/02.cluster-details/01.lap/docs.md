@@ -79,7 +79,7 @@ Please note: This plan is to be used as a guide and may be adapted to meet the n
 
 You will be notified of changes as they occur.
 
-Your training will include **structured in and out of class activities*** to be completed for this unit.
+Your training will include **structured in and out of class activities** to be completed for this unit. This means you will need to complete some work/study outside of class.
 
 | | Out of class activities may include (:fa-check:):       | |                                             |
 |-|------------------------------------------------|-|---------------------------------------------|
