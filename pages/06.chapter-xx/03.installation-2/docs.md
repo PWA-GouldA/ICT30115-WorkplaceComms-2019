@@ -1,5 +1,5 @@
 ---
-title: 'Exercises & Assessment'
+title: 'Homework & Revision'
 taxonomy:
     category:
         - docs
