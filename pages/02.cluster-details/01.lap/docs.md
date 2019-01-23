@@ -37,7 +37,11 @@ This learning and assessment plan outlines how this unit or cluster of units wil
 !! For day and time, please see your timetable.
 
 ### Resources
-Student learning resources, text book, equipment and other items.
+Learning Resources are provided to enable learners to meet the requirements of this unit of competency or cluster.
+
+The learning resources may include items such as: notes, online resources, text books, equipment and other associated items.
+
+The student is expected to provide some resources for themselves. 
 
 |                    |  Resources                                                        |          |
 |--------------------|-------------------------------------------------------------------|----------|
@@ -48,7 +52,7 @@ Student learning resources, text book, equipment and other items.
 |                    | Python Compiler/Intepreter					                     | Required |
 |                    | Python IDE (eg PyCharm EDU)					                     | Required |
 |                    | Internet Access								                     | Required |
-
+|                    | Learning Management System Access (Blackboard)   				 | Required |
 
 ### Lecturer Details
 | **Lecturer Name:** | **Phone:  ** | **Email:**                     | **Contact times** | **Campus / Room**            |
@@ -93,7 +97,7 @@ Your training will include **structured in and out of class activities** to be c
 
 Each session corresponds to a single class contact period.
 
-| **Session**     | **Hours** | **Element number** | **Topic** 			| **Learning Resources** | ** Structured out of class activities** | |
+| **Session**     | **Hours** | **Element number** | **Topic** 			| **Learning Resources** | ** Structured out of class activities** |
 | --------------- | --------- | ------------------ | ------------------ | ---------------------- | ----------------------------------------|
 | 1    	          | 3         |   				   |   				    |   |   |   |
 | 2    	          | 3         |   				   |   				    |   |   |   |
@@ -114,11 +118,10 @@ Each session corresponds to a single class contact period.
 | 17           	  | 3         |   				   |   				    |   |   |   |
 | 18         	  | 3         |   				   |   				    |   |   |   |
 | **Total Hours** | 54        | - |   | **Total hours out of class activities** |    |
-| **Total amount of training for this unit:** _(sum of Session Hours + Out of Class Hours)_ |   |
 
-_\*Learning Resources - to enable learners to meet the requirements of this unit of competency or cluster._
+**Total amount of training for this unit:** sum of Session Hours + Out of Class Hours
 
-**Reasonable Adjustment**
+## Reasonable Adjustment
 
 We recognise that every student has different learning styles and needs. Please let your lecturer know if there is anything that may have an effect on your learning so they may be able to adjust your plan.
 
