@@ -16,7 +16,7 @@ This learning and assessment plan outlines how this unit or cluster of units wil
 | --- | --- |
 | **Delivery Period:**  | Semester 1, 2019 (Term 2)  |
 | **Cluster Name (if applicable):**  | Introduction to Programming  |
-| Qualifier | VET for Schools Delivery |
+| **Qualifier** | VET for Schools |
 
 
 ### Cluster Units
@@ -81,7 +81,7 @@ You will be notified of changes as they occur.
 
 Your training will include **structured in and out of class activities*** to be completed for this unit.
 
-| | Out of class activities_ may include(:fa-check:):       | |                                             |
+| | Out of class activities may include (:fa-check:):       | |                                             |
 |-|------------------------------------------------|-|---------------------------------------------|
 |:fa-check:| lectures or tutorials, online tasks and forums |:fa-check:| assessments (when integrated with learning) |
 | | workplace experience                           | | prescribed reading and research             |
