@@ -114,7 +114,6 @@ Each session corresponds to a single class contact period.
 | 17           	  | 3         |   				   |   				    |   |   |   |
 | 18         	  | 3         |   				   |   				    |   |   |   |
 | **Total Hours** | 54        | - |   | **Total hours out of class activities** |    |
-
 | **Total amount of training for this unit:** _(sum of Session Hours + Out of Class Hours)_ |   |
 
 _\*Learning Resources - to enable learners to meet the requirements of this unit of competency or cluster._
