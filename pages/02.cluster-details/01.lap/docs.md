@@ -117,7 +117,7 @@ Each session corresponds to a single class contact period.
 | 16         	  | 3         |   				   |   				    |   |   |   |
 | 17           	  | 3         |   				   |   				    |   |   |   |
 | 18         	  | 3         |   				   |   				    |   |   |   |
-| **Total Hours** | 54        | - |   | **Total hours out of class activities** |    |
+| **Class hours** | 54        | - | - | - | **Out of class hours** |    |
 
 **Total amount of training for this unit:** sum of Session Hours + Out of Class Hours
 
