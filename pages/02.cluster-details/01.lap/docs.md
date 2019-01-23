@@ -1,6 +1,6 @@
 ---
 title: 'Learning and Assessment Plan'
-media_order: 'ICTICT301_AssessmentRequirements_R1.pdf,ICTICT301_R1.pdf,ICTICT305_AssessmentRequirements_R1.pdf,ICTICT305_R1.pdf,ICTICT415_AssessmentRequirements_R1.pdf,ICTICT415_R1.pdf'
+media_order: 'ICTICT305_AssessmentRequirements_R1.pdf,ICTICT305_R1.pdf,ICTICT415_AssessmentRequirements_R1.pdf,ICTICT415_R1.pdf,ICTPRG301_AssessmentRequirements_R1.pdf,ICTPRG301_R1.pdf'
 taxonomy:
     category:
         - docs
@@ -22,9 +22,9 @@ This learning and assessment plan outlines how this unit or cluster of units wil
 ### Cluster Units
 | **National ID**   | **Name of Unit** 											| Files | Link (Most current version)|
 |-------------------|-----------------------------------------------------------|-------|----------------------------------------------------|
-| ICTPRG301  		|  Apply introductory programming techniques   				| [Unit](ICTICT301_AssessmentRequirements_R1.pdf)  | https://training.gov.au/Training/Details/ICTPRG301 |
-| ICTICT305  		|  Identify and use current industry specific technologies 	| Unit  | https://training.gov.au/Training/Details/ICTICT305 |
-| ICTICT415  		|  Provide one-to-one instruction 		 					| Unit  | https://training.gov.au/Training/Details/ICTICT415 |
+| ICTPRG301  		|  Apply introductory programming techniques   				| [Unit](ICTPRG301_R1.pdf)  | [ICTPRG301](https://training.gov.au/Training/Details/ICTPRG301) |
+| ICTICT305  		|  Identify and use current industry specific technologies 	| [Unit](ICTICT305_R1.pdf)  | [ICTICT305](https://training.gov.au/Training/Details/ICTICT305) |
+| ICTICT415  		|  Provide one-to-one instruction 		 					| [Unit](ICTICT415_R1.pdf)  | [ICTICT415](https://training.gov.au/Training/Details/ICTICT415) |
 
 
 ### Delivery Information 
@@ -33,6 +33,8 @@ This learning and assessment plan outlines how this unit or cluster of units wil
 | Campus   | Perth (Northbridge)                               |
 | Building | 30 Aberdeen Street, Perth                         |
 | Room     | L2-60 (Library, Level 2, Room 60)                 | 
+
+!! For day and time, please see your timetable.
 
 ### Resources
 Student learning resources, text book, equipment and other items.
