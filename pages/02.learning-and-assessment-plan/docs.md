@@ -43,16 +43,21 @@ The learning resources may include items such as: notes, online resources, text 
 
 The student is expected to provide some resources for themselves. 
 
-|                    |  Resources                                                        |          |
-|--------------------|-------------------------------------------------------------------|----------|
-| Student to supply: | Writing and note taking items (Pens, Notebook/Paper, Highlighter) | Required |
-|                    | External Storage (Recommend 1TB External HDD)                     | Required |
-|                    |                                                                   |          |
-| College to supply: | Computer (Windows 7 or later)                                     | Required |
-|                    | Python Compiler/Intepreter					                     | Required |
-|                    | Python IDE (eg PyCharm EDU)					                     | Required |
-|                    | Internet Access								                     | Required |
-|                    | Learning Management System Access (Blackboard)   				 | Required |
+
+| College to supply these resources                                                        |          |
+|-------------------------------------------------------------------|----------|
+| Computer (Windows 7 or later)                                     | Required |
+| Python Compiler/Intepreter					                     | Required |
+| Python IDE (eg PyCharm EDU)					                     | Required |
+| Internet Access								                     | Required |
+| Learning Management System Access (Blackboard)   				 | Required |
+
+
+| Student to supply these resources                                                        |          |
+|-------------------------------------------------------------------|----------|
+| Writing and note taking items (Pens, Notebook/Paper, Highlighter) | Required |
+| External Storage (Recommend 1TB External HDD)                     | Required |
+|                                                                   |          |
 
 ### Lecturer Details
 | **Lecturer Name:** | **Phone:  ** | **Email:**                     | **Contact times** | **Campus / Room**            |
