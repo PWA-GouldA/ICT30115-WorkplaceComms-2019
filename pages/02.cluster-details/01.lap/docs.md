@@ -22,7 +22,7 @@ This learning and assessment plan outlines how this unit or cluster of units wil
 ### Cluster Units
 | **National ID**   | **Name of Unit** 											| Files | Link (Most current version)|
 |-------------------|-----------------------------------------------------------|-------|----------------------------------------------------|
-| ICTPRG301  		|  Apply introductory programming techniques   				| [ICTICT301_AssessmentRequirements_R1.pdf](ICTICT301_AssessmentRequirements_R1.pdf)  | https://training.gov.au/Training/Details/ICTPRG301 |
+| ICTPRG301  		|  Apply introductory programming techniques   				| [Unit](ICTICT301_AssessmentRequirements_R1.pdf)  | https://training.gov.au/Training/Details/ICTPRG301 |
 | ICTICT305  		|  Identify and use current industry specific technologies 	| Unit  | https://training.gov.au/Training/Details/ICTICT305 |
 | ICTICT415  		|  Provide one-to-one instruction 		 					| Unit  | https://training.gov.au/Training/Details/ICTICT415 |
 
