@@ -57,7 +57,7 @@ The learning resources may include items such as: notes, online resources, text 
 | External Storage (Recommend 1TB External HDD)                     | Required |
 | Laptop                                                            | Optional |
 
-! # College takes no responsibility for loss or damage of personal items
+! ### College takes no responsibility for loss or damage of personal items
 
 ### Lecturer Details
 | **Lecturer Name:** | **Phone:  ** | **Email:**                     | **Contact times** | **Campus / Room**            |
