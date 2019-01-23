@@ -97,8 +97,8 @@ Your training will include **structured in and out of class activities** to be c
 
 Each session corresponds to a single class contact period.
 
-| **Session**     | **Hours** | **Element number** | **Topic** 			| **Learning Resources** | ** Structured out of class activities** |
-| --------------- | --------- | ------------------ | ------------------ | ---------------------- | ----------------------------------------|
+| **Session**     | **Hours** | **Element number** | **Topic** 			| **Learning Resources** | **Structured out of class activities** |     |
+| --------------- | --------- | ------------------ | ------------------ | ---------------------- | ---------------------------------------| --- |
 | 1    	          | 3         |   				   |   				    |   |   |   |
 | 2    	          | 3         |   				   |   				    |   |   |   |
 | 3     	      | 3         |   				   |   				    |   |   |   |
