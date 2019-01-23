@@ -10,7 +10,7 @@
 .notices.black {
     border-left: 10px solid #666666;
     background: #333333;
-    color: #c0c0c0;
+    color: #f0f0f0;
 }
 
 .notices.yellow {
@@ -22,11 +22,11 @@
 .notices.red {
     border-left: 10px solid #d9534f;
     background: #b52b27;
-    color: #;fdf7f7
+    color: #fdf7f7;
 }
 
 .notices.purple {
-    border-left: 10px solid #992299;
+    border-left: 10px solid #aa55aa;
     background: #992299;
     color: #f1f9f1;
 }

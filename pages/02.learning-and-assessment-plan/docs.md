@@ -34,7 +34,7 @@ This learning and assessment plan outlines how this unit or cluster of units wil
 | Building | 30 Aberdeen Street, Perth                         |
 | Room     | L2-60 (Library, Level 2, Room 60)                 | 
 
-!! For day and time, please see your timetable.
+!!!!! For day and time, please see your timetable.
 
 ### Resources
 Learning Resources are provided to enable learners to meet the requirements of this unit of competency or cluster.
