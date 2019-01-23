@@ -9,7 +9,28 @@ child_type: docs
 
 # Topic Title
 
-Intropduction to topic
+Introduction to topic
 
-## steps etc
+## Lesson Objectives
+
+*	objective 1
+*	objective ...
+*	objective n
+
+## Scenario
+
+short scenario outline
+
+## Resources Required
+
+* resources
+* resources...
+
+## Chapter Content
+
+
+## Exercises
+
+
+## Homework / Revision
 
