@@ -1,5 +1,5 @@
 ---
-title: 'Exercises & Assessment 2'
+title: 'ii. Exercises'
 taxonomy:
     category:
         - docs

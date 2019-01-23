@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Content'
+title: 'ii. Exercises'
 taxonomy:
     category:
         - docs

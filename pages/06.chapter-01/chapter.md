@@ -1,11 +1,11 @@
 ---
-title: 'Chapter xx'
+title: 'Chapter 01'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter XX
+### Chapter 01
 
 # Topic Title
 
@@ -25,12 +25,4 @@ short scenario outline
 
 * resources
 * resources...
-
-## Chapter Content
-
-
-## Exercises
-
-
-## Homework / Revision
 
