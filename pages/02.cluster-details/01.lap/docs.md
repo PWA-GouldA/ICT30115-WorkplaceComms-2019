@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 visible: true
+creator: adrian
 ---
 
 This learning and assessment plan outlines how this unit or cluster of units will be delivered and assessed. The schedule of learning topics, assessments and the due date for assessments are included.
@@ -87,29 +88,27 @@ Your training will include **structured in and out of class activities*** to be 
 
 Each session corresponds to a single class contact period.
 
-| **Session** | **Hours** | **Element number** | **Topic** | **Learning Resources** | ** Structured out of class activities** | |
-| ----------- | --------- | ------------------ | --------- | ---------------------- | ----------------------------------------|
-| 1           |   |   |   |   |   |   |
-| 2           |   |   |   |   |   |   |
-| 3           |   |   |   |   |   |   |
-| 4           |   |   |   |   |   |   |
-| 5           |   |   |   |   |   |   |
-| 6           |   |   |   |   |   |   |
-| 7           |   |   |   |   |   |   |
-| 8           |   |   |   |   |   |   |
-| 9           |   |   |   |   |   |   |
-| 10          |   |   |   |   |   |   |
-| 11          |   |   |   |   |   |   |
-| 12          |   |   |   |   |   |   |
-| 13          |   |   |   |   |   |   |
-| 14          |   |   |   |   |   |   |
-| 15          |   |   |   |   |   |   |
-| 16          |   |   |   |   |   |   |
-| 17          |   |   |   |   |   |   |
-| 18          |   |   |   |   |   |   |
-| 19          |   |   |   |   |   |   |
-| 20          |   |   |   |   |   |   |
-| **Total Hours** |   |   |   | **Total hours out of class activities** |    |
+| **Session**     | **Hours** | **Element number** | **Topic** 			| **Learning Resources** | ** Structured out of class activities** | |
+| --------------- | --------- | ------------------ | ------------------ | ---------------------- | ----------------------------------------|
+| 1    	          | 3         |   				   |   				    |   |   |   |
+| 2    	          | 3         |   				   |   				    |   |   |   |
+| 3     	      | 3         |   				   |   				    |   |   |   |
+| 4     	      | 3         |   				   |   				    |   |   |   |
+| 5     	      | 3         |   				   |   				    |   |   |   |
+| 6     	      | 3         |   				   |   				    |   |   |   |
+| 7     	      | 3         |   				   |   				    |   |   |   |
+| 8     	      | 3         |   				   |   				    |   |   |   |
+| 9     	      | 3         |   				   |   				    |   |   |   |
+| 10     	      | 3         |   				   |   				    |   |   |   |
+| 11    	      | 3         |   				   |   				    |   |   |   |
+| 12    	      | 3         |   				   |   				    |   |   |   |
+| 13     	      | 3         |  				   |   				    |   |   |   |
+| 14         	  | 3         |   				   |   				    |   |   |   |
+| 15          	  | 3         |   				   |   				    |   |   |   |
+| 16         	  | 3         |   				   |   				    |   |   |   |
+| 17           	  | 3         |   				   |   				    |   |   |   |
+| 18         	  | 3         |   				   |   				    |   |   |   |
+| **Total Hours** | 54        | - |   | **Total hours out of class activities** |    |
 
 | **Total amount of training for this unit:** _(sum of Session Hours + Out of Class Hours)_ |   |
 
