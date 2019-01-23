@@ -70,7 +70,7 @@ The learning resources may include items such as: notes, online resources, text 
 !!! **NOTE:**
 !!! Adrian is delivering at multiple campuses and will not be easily contacted by phone. Please use eMail to contact him.
 
-# Assessment Summary
+## Assessment Summary
 
 | Task         | Title and brief description                                                                   | Due Date  |
 | -------------| --------------------------------------------------------------------------------------------- | --------- |
@@ -98,7 +98,7 @@ Your training will include **structured in and out of class activities** to be c
 |:fa-check:| prescribed follow-up activities                | |                                             |
 | | other (please specify):                        | |  -                                           |
 
-### Delivery Schedule
+## Delivery Schedule
 
 Each session corresponds to a single class contact period.
 
@@ -152,11 +152,11 @@ To qualify for re-assessment:
 
 - you must have made a reasonable attempt to complete the assessment satisfactorily
 
-AND
+**AND** either:
 
 - you must have submitted the original assessment by the due date
 
-OR
+**OR**
 
 - you must have attended and participated in the original assessment event
 
