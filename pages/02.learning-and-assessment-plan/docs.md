@@ -49,7 +49,7 @@ The learning resources may include items such as: notes, online resources, text 
 | Internet Access								                     | Required |
 | Learning Management System Access (Blackboard)   				 | Required |
 
-!!!!! The student is expected to provide some resources for themselves. 
+**The student is expected to provide some resources for themselves. **
 
 | Student to supply these resources                                                        |          |
 |-------------------------------------------------------------------|----------|
@@ -57,7 +57,7 @@ The learning resources may include items such as: notes, online resources, text 
 | External Storage (Recommend 1TB External HDD)                     | Required |
 | Laptop                                                            | Optional |
 
-! ### College takes no responsibility for loss or damage of personal items
+! #### North Metropolitan TAFE takes no responsibility for loss or damage of personal items
 
 ### Lecturer Details
 | **Lecturer Name:** | **Phone:  ** | **Email:**                     | **Contact times** | **Campus / Room**            |
