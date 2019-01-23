@@ -12,7 +12,7 @@ This learning and assessment plan outlines how this unit or cluster of units wil
 
 | Qualification National Code and Title:  | ICT30115 Certificate III in Inforamtion, Digital Media and Technology  |
 | --- | --- |
-| **Delivery Period:**  | Semester 2, 2019 (Term 1)  |
+| **Delivery Period:**  | Semester 1, 2019 (Term 2)  |
 | **Cluster Name (if applicable):**  | Introduction to Programming  |
 | Qualifier | VET for Schools Delivery |
 
@@ -39,32 +39,28 @@ Student learning resources, text book, equipment and other items.
 |--------------------|-------------------------------------------------------------------|----------|
 | Student to supply: | Writing and note taking items (Pens, Notebook/Paper, Highlighter) | Required |
 |                    | External Storage (Recommend 1TB External HDD)                     | Required |
-|                    | External Storage (Recommend 1TB External HDD)                     | Required |
-|                    | External Storage (Recommend 1TB External HDD)                     | Required |
-|                    | External Storage (Recommend 1TB External HDD)                     | Required |
 |                    |                                                                   |          |
 | College to supply: | Computer (Windows 7 or later)                                     | |
 |                    | External Storage (Recommend 1TB External HDD)                     | Required |
-|                    | External Storage (Recommend 1TB External HDD)                     | Required |
-|                    | External Storage (Recommend 1TB External HDD)                     | Required |
-|                    | External Storage (Recommend 1TB External HDD)                     | Required |
-|                    | External Storage (Recommend 1TB External HDD)                     | Required |
+|                    | Python Compiler/Intepreter					                     | Required |
+|                    | Python IDE (eg PyCharm EDU)					                     | Required |
+|                    | Internet Access								                     | Required |
 
 
 ### Lecturer Details
 | **Lecturer Name:** | **Phone:  ** | **Email:**                     | **Contact times** | **Campus / Room**            |
 |--------------------|--------------|--------------------------------|-------------------|------------------------------|
-| Adrian Gould       | 08-XXXX-XXXX | Adrian.Gould@nmtafe.wa.edu.au  | Weds 0900-1500    | Perth: 19 Aberdeen St, A305  |
+| Adrian Gould       | 08-XXXX-XXXX | Adrian.Gould@nmtafe.wa.edu.au  | Weds 0900-1500    | Perth: 12 Aberdeen St, A305  |
 
 !!! **NOTE:**
-!!! Adrian is delivering at multiple campuses and has Wednesday without any lectures in normal situations. His [timetable is available](../resources/lecturer/adrian).
+!!! Adrian is delivering at multiple campuses and will not be easily contacted by phone. Please use eMail to contact him.
 
 # Assessment Summary
 
 | Task         | Title and brief description                                                                   | Due Date  |
 | -------------| --------------------------------------------------------------------------------------------- | --------- |
 | 1. Quiz      | Three quizzes (one per unit), 1.5hr duration each, open book, multiple attempts               | Week 8    |
-| 2. Portfolio | Multiple portfolio exercises and tasks covering the content of the module.                    | Week 6    |
+| 2. Portfolio | Multiple portfolio exercises and tasks covering the content of the module.                    | Weeks 1 - 7    |
 | 3. Project   | Project covering unit content and application to new scenario                                 | Week 9    |
 
 **You will receive more detailed instructions on each assessment from your lecturer.**
