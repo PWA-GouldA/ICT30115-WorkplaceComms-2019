@@ -50,7 +50,10 @@ Student learning resources, text book, equipment and other items.
 ### Lecturer Details
 | **Lecturer Name:** | **Phone:  ** | **Email:**                     | **Contact times** | **Campus / Room**            |
 |--------------------|--------------|--------------------------------|-------------------|------------------------------|
-| Adrian Gould       | 08-XXXX-XXXX | Adrian.Gould@nmtafe.wa.edu.au  | Weds 0900-1500    | Perth: 12 Aberdeen St, A305  |
+| Adrian Gould       | 08-XXXX-XXXX | Adrian.Gould@nmtafe.wa.edu.au  |                   | Perth: 12 Aberdeen St, A305  |	
+|                    |              |                                |                   | Joondalup:   |	
+|                    |              |                                |                   | Midland :  |	
+|                    |              |                                |                   | East Perth:   |	
 
 !!! **NOTE:**
 !!! Adrian is delivering at multiple campuses and will not be easily contacted by phone. Please use eMail to contact him.
@@ -60,7 +63,7 @@ Student learning resources, text book, equipment and other items.
 | Task         | Title and brief description                                                                   | Due Date  |
 | -------------| --------------------------------------------------------------------------------------------- | --------- |
 | 1. Quiz      | Three quizzes (one per unit), 1.5hr duration each, open book, multiple attempts               | Week 8    |
-| 2. Portfolio | Multiple portfolio exercises and tasks covering the content of the module.                    | Weeks 1 - 7    |
+| 2. Portfolio | Multiple portfolio exercises and tasks covering the content of the module. These will be completed and submitted at various due dates. | Weeks 1 - 7    |
 | 3. Project   | Project covering unit content and application to new scenario                                 | Week 9    |
 
 **You will receive more detailed instructions on each assessment from your lecturer.**
