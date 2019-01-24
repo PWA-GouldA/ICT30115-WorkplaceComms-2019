@@ -18,12 +18,15 @@ These links, files and other items may be of use whilst studying this cluster.
 * [:fa-file-pdf-o: Python Turtle Cheat Sheet PDF](Python-Turtle-Cheat-Sheet.pdf) 
 * [:fa-file-pdf-o: Pysheeet Advanced PDF](pysheeet-advanced.pdf) 
 * [:fa-file-pdf-o: Python 3 Reference Cheat Sheet PDF](Python3_reference_cheat_sheet.pdf)
+* ...
 
 ### Books
 * [:fa-file-pdf-o: Halterman Python Book PDF](Haltermanpythonbook.pdf) 
-* [:fa-file-pdf-o: Mking Games PDFgames.pdf) 
-* [:fa-file-pdf-o: Python Book 01 PDF](python_book_01.pdf) 
-* [:fa-file-pdf-o: Python Book PDF](pythonbook.pdf) 
+* [:fa-file-pdf-o: Making Games PDF](makinggames.pdf)
+* [:fa-file-pdf-o: Python Book 01 PDF](python_book_01.pdf)
+* [:fa-file-pdf-o: Python Book PDF](pythonbook.pdf)
+* [:fa-file-pdf-o: Python for Everybody](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)
+* ...
 
 ### Video
 * ...
@@ -36,10 +39,9 @@ These links, files and other items may be of use whilst studying this cluster.
 * [:fa-link: Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 * [:fa-link: Learn Python 3 | Codecademy](https://www.codecademy.com/learn/learn-python-3) 
 * [:fa-link: ](.)
-* ...
+* [:fa-link: Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-2)
+* [:fa-link: Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-to-python-fundamentals-2)
 
-### Tutorials
-* ...
 
 ### Other
 * [:fa-file-pdf-o: Computational Thinking Poster PDF](computational-thinking-poster.pdf)
