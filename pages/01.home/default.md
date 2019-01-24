@@ -12,7 +12,7 @@ routes:
 creator: adrian
 ---
 
-## Introduction to Programming (Python)
+## Workplace Communications
 **for the ICT30115 Certificate III in Information, Ddigital Media and Teachnology**
 
 SPLASH SCREEN BANNER
