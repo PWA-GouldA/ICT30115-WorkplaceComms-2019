@@ -35,7 +35,7 @@ These links, files and other items may be of use whilst studying this cluster.
 
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/) :fa-link:
 * [Learn Python 3 | Codecademy](https://www.codecademy.com/learn/learn-python-3) :fa-link:
-* [:fa-link: ]()
+* [:fa-link: ](.)
 * ...
 
 ### Tutorials
