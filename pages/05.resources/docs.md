@@ -13,7 +13,7 @@ These links, files and other items may be of use whilst studying this cluster.
 !!!! It is important to recognise that some of these may not be suitable for your level of study, but aimed at more advanced students and programmers.
 
 ### Cheat Sheets
-* [Python Crash Course Beginners Python Cheat Sheet PDF :fa-file-pdf: ](beginners_python_cheat_sheet_pcc_all.pdf)
+* [Python Crash Course Beginners Python Cheat Sheet PDF :file-pdf: ](beginners_python_cheat_sheet_pcc_all.pdf)
 * [Cheatsheet Python 1 PDF](cheatsheet-python-1.pdf)
 * [Python Turtle Cheat Sheet PDF](Python-Turtle-Cheat-Sheet.pdf)
 * [Pysheeet Advanced PDF](pysheeet-advanced.pdf)
