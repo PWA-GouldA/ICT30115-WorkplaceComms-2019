@@ -71,7 +71,7 @@ The learning resources may include items such as: notes, online resources, text 
 | Task         | Title and brief description                                                                   | Due Date  |
 | -------------| --------------------------------------------------------------------------------------------- | --------- |
 | 1. Quiz      | Three quizzes (one per unit), 1.5hr duration each, open book, multiple attempts               | Week 8    |
-| 2. Portfolio | Multiple portfolio exercises and tasks covering the content of the module. These will be completed and submitted at various due dates. | Weeks 1 - 7    |
+| 2. Portfolio | Multiple portfolio exercises and tasks covering the content of the module.<br> These will be completed and submitted at various due dates. | Weeks 1 - 7    |
 | 3. Project   | Project covering unit content and application to new scenario                                 | Week 9    |
 
 **You will receive more detailed instructions on each assessment from your lecturer.**
