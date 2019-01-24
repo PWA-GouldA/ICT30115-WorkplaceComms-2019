@@ -29,7 +29,8 @@ These links, files and other items may be of use whilst studying this cluster.
 * ...
 
 ### External Courses
-* ...
+* [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/) :fa-link:
+* [Python Tutorial: Learn Python For Free | Codecademy](https://www.codecademy.com/learn/learn-python) :fa-link:
 
 ### Tutorials
 * ...
