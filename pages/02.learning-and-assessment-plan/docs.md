@@ -12,7 +12,7 @@ This learning and assessment plan outlines how this unit or cluster of units wil
 
 ### Qualification & Delivery Period
 
-| Qualification National Code and Title:  | ICT30115 Certificate III in Inforamtion, Digital Media and Technology  |
+| Qualification National Code and Title:  | ICT30115 Certificate III in Information, Digital Media and Technology  |
 | --- | --- |
 | **Delivery Period:**  | Semester 1, 2019 (Term 2)  |
 | **Cluster Name (if applicable):**  | Introduction to Programming  |
