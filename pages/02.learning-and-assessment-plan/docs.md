@@ -62,10 +62,9 @@ The learning resources may include items such as: notes, online resources, text 
 ### Lecturer Details
 | **Lecturer Name:** | **Phone:  ** | **Email:**                     | **Contact times** | **Campus / Room**            |
 |--------------------|--------------|--------------------------------|-------------------|------------------------------|
-| ![Adrian Gould](Ady-head-shoulders-150.jpg "Adrian Gould")       | 08-XXXX-XXXX | Adrian.Gould@nmtafe.wa.edu.au  |                   | Perth: 12 Aberdeen St, A305<br>Joondalup:<br> Midland : <br>East Perth:   |	
+| ![Adrian Gould](Ady-head-shoulders-150.jpg?classes=caption "Adrian Gould")       | 08-XXXX-XXXX | Adrian.Gould@nmtafe.wa.edu.au  |                   | Perth: 12 Aberdeen St, A305<br>Joondalup:<br> Midland : <br>East Perth:   |	
 
-!!! **NOTE:**
-!!! Adrian is delivering at multiple campuses and will not be easily contacted by phone. Please use eMail to contact him.
+!!! **NOTE:** Adrian is delivering at multiple campuses and will not be easily contacted by phone. Please use eMail to contact him.
 
 ## Assessment Summary
 
