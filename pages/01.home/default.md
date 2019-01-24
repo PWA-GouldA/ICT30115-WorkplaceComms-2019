@@ -13,7 +13,7 @@ creator: adrian
 ---
 
 ## Workplace Communications
-**for the ICT30115 Certificate III in Information, Ddigital Media and Teachnology**
+**for the ICT30115 Certificate III in Information, Digital Media and Technology**
 
 SPLASH SCREEN BANNER
 
