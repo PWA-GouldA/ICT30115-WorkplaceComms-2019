@@ -1,5 +1,5 @@
 ---
-title: Downloads
+title: Resources
 media_order: 'Python-Turtle-Cheat-Sheet.pdf,beginners_python_cheat_sheet_pcc_all.pdf,cheatsheet-python-1.pdf,computational-thinking-poster.pdf,Haltermanpythonbook.pdf,makinggames.pdf,pysheeet-advanced.pdf,python_book_01.pdf,Python3_reference_cheat_sheet.pdf,pythonbook.pdf'
 taxonomy:
     category:
@@ -8,10 +8,9 @@ visible: true
 creator: adrian
 ---
 
-## Downloads
+These links, files and other items may be of use whilst studying this cluster.
 
-This section contains files that may be of use when studying this cluster,
-
+!!!! It is important to recognise that some of these may not be suitable for your level of study, but aimed at more advanced students and programmers.
 
 ### Cheat Sheets
 * [beginners_python_cheat_sheet_pcc_all.pdf](beginners_python_cheat_sheet_pcc_all.pdf)
