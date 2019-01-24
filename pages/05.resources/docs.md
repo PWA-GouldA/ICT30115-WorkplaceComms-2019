@@ -25,7 +25,7 @@ These links, files and other items may be of use whilst studying this cluster.
 * [:fa-file-pdf-o: Making Games PDF](makinggames.pdf)
 * [:fa-file-pdf-o: Python Book 01 PDF](python_book_01.pdf)
 * [:fa-file-pdf-o: Python Book PDF](pythonbook.pdf)
-* [:fa-file-pdf-o: Python for Everybody](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance))
+* [:fa-file-pdf-o: Python for Everybody PDF](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance))
 * ...
 
 ### Video
