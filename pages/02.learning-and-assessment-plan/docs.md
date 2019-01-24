@@ -1,6 +1,6 @@
 ---
 title: 'Learning and Assessment Plan'
-media_order: 'ICTICT305_AssessmentRequirements_R1.pdf,ICTICT305_R1.pdf,ICTICT415_AssessmentRequirements_R1.pdf,ICTICT415_R1.pdf,ICTPRG301_AssessmentRequirements_R1.pdf,ICTPRG301_R1.pdf'
+media_order: 'ICTICT305_AssessmentRequirements_R1.pdf,ICTICT305_R1.pdf,ICTICT415_AssessmentRequirements_R1.pdf,ICTICT415_R1.pdf,ICTPRG301_AssessmentRequirements_R1.pdf,ICTPRG301_R1.pdf,Ady-head-shoulders-150.jpg'
 taxonomy:
     category:
         - docs
@@ -62,7 +62,7 @@ The learning resources may include items such as: notes, online resources, text 
 ### Lecturer Details
 | **Lecturer Name:** | **Phone:  ** | **Email:**                     | **Contact times** | **Campus / Room**            |
 |--------------------|--------------|--------------------------------|-------------------|------------------------------|
-| Adrian Gould       | 08-XXXX-XXXX | Adrian.Gould@nmtafe.wa.edu.au  |                   | Perth: 12 Aberdeen St, A305  |	
+| Adrian Gould<br> ![](Ady-head-shoulders-150.jpg)       | 08-XXXX-XXXX | Adrian.Gould@nmtafe.wa.edu.au  |                   | Perth: 12 Aberdeen St, A305  |	
 |                    |              |                                |                   | Joondalup:   |	
 |                    |              |                                |                   | Midland :  |	
 |                    |              |                                |                   | East Perth:   |	
